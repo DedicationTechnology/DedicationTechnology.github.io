@@ -8,7 +8,7 @@ tags:
 - github
 - git
 
-summary: git中Updates were rejected because the tip of your current branch is behind解决方案
+summary: 
 ---
 
 #### 1.错误说明

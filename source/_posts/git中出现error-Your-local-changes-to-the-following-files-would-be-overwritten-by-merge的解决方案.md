@@ -5,8 +5,7 @@ toc: true
 mathjax: true
 date: 2020-07-05 19:58:46
 password:
-summary: git中出现error Your local changes to the following files would be overwritten by
-  merge的解决方案
+summary: 
 tags: 
 - git
 - github

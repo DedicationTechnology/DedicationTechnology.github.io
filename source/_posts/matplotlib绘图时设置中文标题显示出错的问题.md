@@ -6,7 +6,7 @@ toc: true
 mathjax: true
 date: 2020-07-10 21:17:20
 password:
-summary: matplotlib绘图时设置中文标题显示出错的问题
+summary: 
 tags:
 - 大数据
 - 数据可视化

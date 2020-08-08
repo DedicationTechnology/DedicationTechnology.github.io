@@ -7,7 +7,7 @@ tags:
   - windows
   - 永久激活
   - 免费
-summary: 永久且免费的激活你的windows系统(亲测有效)
+summary: 
 ---
 
 #### 1.说明
