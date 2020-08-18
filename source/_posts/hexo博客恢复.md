@@ -39,6 +39,7 @@ hexo n # 生成一个新的博客
 git add  # 添加到本地工作台
 git commit -m ""  # 添加到本地仓库
 git push origin backup  # 上传到github仓库中的备份分支backup中
+hexo clean
 hexo g  # 生成博客文件
 hexo s  # 开启本地博客预览
 hexo d  # 上传博客静态文件到GitHub
