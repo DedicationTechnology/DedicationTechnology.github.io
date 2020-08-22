@@ -1,6 +1,6 @@
 ---
 title: github+picgo+typora搭建免费图床
-top: false
+top: true
 cover: false
 toc: true
 mathjax: true

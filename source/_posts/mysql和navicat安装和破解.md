@@ -1,6 +1,6 @@
 ---
 title: mysql+navicat安装和破解
-top: true
+top: false
 cover: false
 toc: true
 mathjax: true
