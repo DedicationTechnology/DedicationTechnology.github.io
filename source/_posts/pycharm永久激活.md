@@ -55,3 +55,5 @@ categories: 永久激活
 6. 推荐不勾选自动更新的选项，防止更新后插件无法使用需要重新激活
 
 ![](https://raw.githubusercontent.com/DedicationTechnology/picgo/master/img/67.jpg)
+
+测试部分
