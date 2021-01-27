@@ -44,3 +44,5 @@ hexo g  # 生成博客文件
 hexo s  # 开启本地博客预览
 hexo d  # 上传博客静态文件到GitHub
 ```
+
+windows
