@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DedicationTechnology</title>
+  
+  <subtitle>错过落日余晖还有漫天星辰</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://dedicationtechnology.github.io/"/>
+  <updated>2021-02-19T09:16:00.490Z</updated>
+  <id>https://dedicationtechnology.github.io/</id>
+  
+  <author>
+    <name>splitSecond</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>windows永久激活教程(亲测免费)</title>
+    <link href="https://dedicationtechnology.github.io/2021/02/19/windows-yong-jiu-ji-huo-jiao-cheng-qin-ce-mian-fei/"/>
+    <id>https://dedicationtechnology.github.io/2021/02/19/windows-yong-jiu-ji-huo-jiao-cheng-qin-ce-mian-fei/</id>
+    <published>2021-02-19T09:16:00.490Z</published>
+    <updated>2021-02-19T09:16:00.490Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1-说明&quot;&gt;&lt;a href=&quot;#1-说明&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="操作系统" scheme="https://dedicationtechnology.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+      <category term="永久激活" scheme="https://dedicationtechnology.github.io/tags/%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB/"/>
+    
+      <category term="windows" scheme="https://dedicationtechnology.github.io/tags/windows/"/>
+    
+      <category term="免费" scheme="https://dedicationtechnology.github.io/tags/%E5%85%8D%E8%B4%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git中Updates were rejected because the tip of your current branch is behind解决方案</title>
+    <link href="https://dedicationtechnology.github.io/2021/02/19/git-zhong-updates-were-rejected-because-the-tip-of-your-current-branch-is-behind-jie-jue-fang-an/"/>
+    <id>https://dedicationtechnology.github.io/2021/02/19/git-zhong-updates-were-rejected-because-the-tip-of-your-current-branch-is-behind-jie-jue-fang-an/</id>
+    <published>2021-02-19T09:16:00.489Z</published>
+    <updated>2021-02-19T09:16:00.489Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1-错误说明&quot;&gt;&lt;a href=&quot;#1-错误说明&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="git" scheme="https://dedicationtechnology.github.io/categories/git/"/>
+    
+    
+      <category term="github" scheme="https://dedicationtechnology.github.io/tags/github/"/>
+    
+      <category term="git" scheme="https://dedicationtechnology.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>mysql+navicat安装和破解</title>
+    <link href="https://dedicationtechnology.github.io/2020/08/19/mysql-he-navicat-an-zhuang-he-po-jie/"/>
+    <id>https://dedicationtechnology.github.io/2020/08/19/mysql-he-navicat-an-zhuang-he-po-jie/</id>
+    <published>2020-08-19T03:53:33.000Z</published>
+    <updated>2021-02-19T09:16:00.490Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;1-mysql安装&quot;&gt;&lt;a href=&quot;#1-mysql安装&quot; class=&quot;headerlink&quot; title=&quot;1. mysql安装&quot;&gt;&lt;/a&gt;1. mysql安装&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;安装地址&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="破解" scheme="https://dedicationtechnology.github.io/categories/%E7%A0%B4%E8%A7%A3/"/>
+    
+    
+      <category term="破解" scheme="https://dedicationtechnology.github.io/tags/%E7%A0%B4%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>腾讯新闻疫情数据分析</title>
+    <link href="https://dedicationtechnology.github.io/2020/08/18/teng-xun-xin-wen-yi-qing-shu-ju-fen-xi/"/>
+    <id>https://dedicationtechnology.github.io/2020/08/18/teng-xun-xin-wen-yi-qing-shu-ju-fen-xi/</id>
+    <published>2020-08-18T13:56:26.000Z</published>
+    <updated>2021-02-19T09:16:00.491Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;1-腾讯新闻数据爬取&quot;&gt;&lt;a href=&quot;#1-腾讯新闻数据爬取&quot; class=&quot;headerlink&quot; title=&quot;1. 腾讯新闻数据爬取&quot;&gt;&lt;/a&gt;1.
+        
+      
+    
+    </summary>
+    
+    
+      <category term="大数据" scheme="https://dedicationtechnology.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="python" scheme="https://dedicationtechnology.github.io/tags/python/"/>
+    
+      <category term="爬虫" scheme="https://dedicationtechnology.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+    
+      <category term="数据分析" scheme="https://dedicationtechnology.github.io/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>10行代码爬取腾讯新闻疫情历史数据</title>
+    <link href="https://dedicationtechnology.github.io/2020/08/18/10-xing-dai-ma-pa-qu-teng-xun-xin-wen-yi-qing-li-shi-shu-ju/"/>
+    <id>https://dedicationtechnology.github.io/2020/08/18/10-xing-dai-ma-pa-qu-teng-xun-xin-wen-yi-qing-li-shi-shu-ju/</id>
+    <published>2020-08-18T13:30:42.000Z</published>
+    <updated>2021-02-19T09:16:00.489Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;废话不说，直接上代码&quot;&gt;&lt;a href=&quot;#废话不说，直接上代码&quot; class=&quot;headerlink&quot; title=&quot;废话不说，直接上代码&quot;&gt;&lt;/a&gt;废话不说，直接上代码&lt;/h3&gt;&lt;pre class=&quot; language-python&quot;&gt;&lt;code
+        
+      
+    
+    </summary>
+    
+    
+      <category term="爬虫" scheme="https://dedicationtechnology.github.io/categories/%E7%88%AC%E8%99%AB/"/>
+    
+    
+      <category term="python" scheme="https://dedicationtechnology.github.io/tags/python/"/>
+    
+      <category term="爬虫" scheme="https://dedicationtechnology.github.io/tags/%E7%88%AC%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客的恢复</title>
+    <link href="https://dedicationtechnology.github.io/2020/08/18/hexo-bo-ke-hui-fu/"/>
+    <id>https://dedicationtechnology.github.io/2020/08/18/hexo-bo-ke-hui-fu/</id>
+    <published>2020-08-18T13:00:52.000Z</published>
+    <updated>2021-02-19T10:09:18.392Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;1-博客恢复&quot;&gt;&lt;a href=&quot;#1-博客恢复&quot; class=&quot;headerlink&quot; title=&quot;1. 博客恢复&quot;&gt;&lt;/a&gt;1.
+        
+      
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="https://dedicationtechnology.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="博客" scheme="https://dedicationtechnology.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>pycharm永久激活</title>
+    <link href="https://dedicationtechnology.github.io/2020/08/09/pycharm-yong-jiu-ji-huo/"/>
+    <id>https://dedicationtechnology.github.io/2020/08/09/pycharm-yong-jiu-ji-huo/</id>
+    <published>2020-08-09T10:06:39.000Z</published>
+    <updated>2021-02-19T09:16:00.490Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1-说明&quot;&gt;&lt;a href=&quot;#1-说明&quot; class=&quot;headerlink&quot; title=&quot;1. 说明&quot;&gt;&lt;/a&gt;1. 说明&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;本人亲测该永久激活方法适用于pycharm
+        
+      
+    
+    </summary>
+    
+    
+      <category term="永久激活" scheme="https://dedicationtechnology.github.io/categories/%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB/"/>
+    
+    
+      <category term="永久激活" scheme="https://dedicationtechnology.github.io/tags/%E6%B0%B8%E4%B9%85%E6%BF%80%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谷歌浏览器不能科学上网</title>
+    <link href="https://dedicationtechnology.github.io/2020/08/08/gu-ge-liu-lan-qi-bu-neng-ke-xue-shang-wang/"/>
+    <id>https://dedicationtechnology.github.io/2020/08/08/gu-ge-liu-lan-qi-bu-neng-ke-xue-shang-wang/</id>
+    <published>2020-08-08T08:21:24.000Z</published>
+    <updated>2021-02-19T09:16:00.491Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;问题说明：突然某个时候chrome浏览器无法科学上网，检查clash这类科学上网软件发现各节点正常，更新订阅后仍然无法上网，但测试各个节点发现延迟都正常&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="科学上网" scheme="https://dedicationtechnology.github.io/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+    
+      <category term="科学上网" scheme="https://dedicationtechnology.github.io/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+      <category term="clash" scheme="https://dedicationtechnology.github.io/tags/clash/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>matplotlib绘图时设置中文标题显示出错的问题</title>
+    <link href="https://dedicationtechnology.github.io/2020/07/10/matplotlib-hui-tu-shi-she-zhi-zhong-wen-biao-ti-xian-shi-chu-cuo-de-wen-ti/"/>
+    <id>https://dedicationtechnology.github.io/2020/07/10/matplotlib-hui-tu-shi-she-zhi-zhong-wen-biao-ti-xian-shi-chu-cuo-de-wen-ti/</id>
+    <published>2020-07-10T13:17:20.000Z</published>
+    <updated>2021-02-19T09:16:00.490Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在代码中输入如下代码即可解决&lt;/p&gt;
+&lt;pre class=&quot; language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token comment&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="大数据" scheme="https://dedicationtechnology.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="大数据" scheme="https://dedicationtechnology.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="数据可视化" scheme="https://dedicationtechnology.github.io/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    
+      <category term="matplotlib" scheme="https://dedicationtechnology.github.io/tags/matplotlib/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>执行load npz时报错：Object arrays cannot be loaded when allow_pickle=False解决方案</title>
+    <link href="https://dedicationtechnology.github.io/2020/07/10/zhi-xing-load-npz-shi-bao-cuo-object-arrays-cannot-be-loaded-when-allow-pickle-false-jie-jue-fang-an/"/>
+    <id>https://dedicationtechnology.github.io/2020/07/10/zhi-xing-load-npz-shi-bao-cuo-object-arrays-cannot-be-loaded-when-allow-pickle-false-jie-jue-fang-an/</id>
+    <published>2020-07-10T12:45:11.000Z</published>
+    <updated>2021-02-19T09:16:00.491Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ol&gt;
+&lt;li&gt;错误说明：np.load() 缺少allow_pickle的权限&lt;/li&gt;
+&lt;li&gt;解决途径：在load方法中添加属性(修改allow_pickle为True)；np.load(“npz路径”, allow_pickle = True)
+        
+      
+    
+    </summary>
+    
+    
+      <category term="大数据" scheme="https://dedicationtechnology.github.io/categories/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+    
+      <category term="大数据" scheme="https://dedicationtechnology.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+      <category term="数据可视化" scheme="https://dedicationtechnology.github.io/tags/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    
+      <category term="matplotlib" scheme="https://dedicationtechnology.github.io/tags/matplotlib/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>什么是框架？框架的作用是什么？为什么要学习框架？</title>
+    <link href="https://dedicationtechnology.github.io/2020/07/05/shi-me-shi-kuang-jia-kuang-jia-de-zuo-yong-shi-shi-me-wei-shi-me-yao-xue-xi-kuang-jia/"/>
+    <id>https://dedicationtechnology.github.io/2020/07/05/shi-me-shi-kuang-jia-kuang-jia-de-zuo-yong-shi-shi-me-wei-shi-me-yao-xue-xi-kuang-jia/</id>
+    <published>2020-07-05T15:41:24.000Z</published>
+    <updated>2021-02-19T09:16:00.491Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;1-什么是框架？&quot;&gt;&lt;a href=&quot;#1-什么是框架？&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="框架" scheme="https://dedicationtechnology.github.io/categories/%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="框架" scheme="https://dedicationtechnology.github.io/tags/%E6%A1%86%E6%9E%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>共享打印机出现0x00000569代码解决方案(亲测有效)</title>
+    <link href="https://dedicationtechnology.github.io/2020/07/05/gong-xiang-da-yin-ji-chu-xian-0x00000569-dai-ma-jie-jue-fang-an-qin-ce-you-xiao/"/>
+    <id>https://dedicationtechnology.github.io/2020/07/05/gong-xiang-da-yin-ji-chu-xian-0x00000569-dai-ma-jie-jue-fang-an-qin-ce-you-xiao/</id>
+    <published>2020-07-05T15:12:15.000Z</published>
+    <updated>2021-02-19T09:16:00.491Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;1-问题说明&quot;&gt;&lt;a href=&quot;#1-问题说明&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="打印机" scheme="https://dedicationtechnology.github.io/categories/%E6%89%93%E5%8D%B0%E6%9C%BA/"/>
+    
+    
+      <category term="打印机" scheme="https://dedicationtechnology.github.io/tags/%E6%89%93%E5%8D%B0%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo+github搭建自己的博客详细教程(转载)</title>
+    <link href="https://dedicationtechnology.github.io/2020/07/05/hexo-github-da-jian-zi-ji-de-bo-ke-xiang-xi-jiao-cheng-zhuan-zai/"/>
+    <id>https://dedicationtechnology.github.io/2020/07/05/hexo-github-da-jian-zi-ji-de-bo-ke-xiang-xi-jiao-cheng-zhuan-zai/</id>
+    <published>2020-07-05T12:49:15.000Z</published>
+    <updated>2021-02-19T09:16:00.490Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;https://godweiyang.com/2018/04/13/hexo-blog/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://godweiyang.com/2018/04/13/hexo-blog/&lt;/a&gt;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="博客" scheme="https://dedicationtechnology.github.io/categories/%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+      <category term="github" scheme="https://dedicationtechnology.github.io/tags/github/"/>
+    
+      <category term="博客" scheme="https://dedicationtechnology.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+      <category term="hexo" scheme="https://dedicationtechnology.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>github+picgo+typora搭建免费图床</title>
+    <link href="https://dedicationtechnology.github.io/2020/07/05/github-picgo-typora-da-jian-mian-fei-tu-chuang/"/>
+    <id>https://dedicationtechnology.github.io/2020/07/05/github-picgo-typora-da-jian-mian-fei-tu-chuang/</id>
+    <published>2020-07-05T12:07:50.000Z</published>
+    <updated>2021-02-19T09:16:00.489Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1-搭建目的&quot;&gt;&lt;a href=&quot;#1-搭建目的&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="图床" scheme="https://dedicationtechnology.github.io/categories/%E5%9B%BE%E5%BA%8A/"/>
+    
+    
+      <category term="github" scheme="https://dedicationtechnology.github.io/tags/github/"/>
+    
+      <category term="typora" scheme="https://dedicationtechnology.github.io/tags/typora/"/>
+    
+      <category term="picgo" scheme="https://dedicationtechnology.github.io/tags/picgo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git中出现error-Your-local-changes-to-the-following-files-would-be-overwritten-by-merge的解决方案</title>
+    <link href="https://dedicationtechnology.github.io/2020/07/05/git-zhong-chu-xian-error-your-local-changes-to-the-following-files-would-be-overwritten-by-merge-de-jie-jue-fang-an/"/>
+    <id>https://dedicationtechnology.github.io/2020/07/05/git-zhong-chu-xian-error-your-local-changes-to-the-following-files-would-be-overwritten-by-merge-de-jie-jue-fang-an/</id>
+    <published>2020-07-05T11:58:46.000Z</published>
+    <updated>2021-02-19T09:16:00.490Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;1-错误说明&quot;&gt;&lt;a href=&quot;#1-错误说明&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="git" scheme="https://dedicationtechnology.github.io/categories/git/"/>
+    
+    
+      <category term="github" scheme="https://dedicationtechnology.github.io/tags/github/"/>
+    
+      <category term="git" scheme="https://dedicationtechnology.github.io/tags/git/"/>
+    
+  </entry>
+  
+</feed>
