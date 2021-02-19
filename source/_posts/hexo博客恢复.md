@@ -20,14 +20,28 @@ categories: 博客
 
    - 安装好git、nodejs、npm、hexo
 
-   - 克隆博客
+     说明：Mac下git安装：http://sourceforge.net/projects/git-osx-installer/
 
+     ​			Mac下nodejs安装：直接去官网下载对应的安装包
+   
+     ​			Mac下npm默认已经安装，需要安装cnpm，然后用cnpm安装hexo
+
+     ​			Mac下cnpm安装：在root下进行安装，否则会报错
+
+     ​				$ npm install -g cnpm --registry=https://registry.npm.taobao.org
+   
+     ​			Mac下hexo安装：在root下进行安装，否则会报错
+   
+     ​				cnpm install -g hexo-cli
+   
+   - 克隆博客
+   
      ```bash
      git clone https://github.com/DedicationTechnology/DedicationTechnology.github.io.git blog
      ```
-
+   
    - 进入本地的博客目录(这里就是上面目录创建的blog目录)然后利用package.json文件安装相关的插件
-
+   
      ```bash
      npm install
      ```
@@ -44,6 +58,4 @@ hexo g  # 生成博客文件
 hexo s  # 开启本地博客预览
 hexo d  # 上传博客静态文件到GitHub
 ```
-
-### 3. mac下安装需要在root下进行，否则在安装hexo时会报错
 
